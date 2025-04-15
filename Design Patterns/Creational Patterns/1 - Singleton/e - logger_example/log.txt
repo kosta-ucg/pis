@@ -1,0 +1,3 @@
+2025-03-31T18:55:22.825793 - Aplikacija je pokrenuta.
+2025-03-31T18:55:22.841915200 - Korisnik se prijavio.
+2025-03-31T18:55:22.841915200 - Desila se greška: Nevalidan unos.
