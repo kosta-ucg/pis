@@ -1,3 +1,6 @@
+# Prezentacije za 26.05.2025.
+Prezentacije studenata zakazane za 26.05.2025. održaće se u ponedeljak od 8h.
+
 # Literatura
 
 Alex Xu - System Design Interview: An Insider's Guide (2nd edition)
