@@ -42,7 +42,7 @@ Maksimalan broj poena je 60.
 ## Bonus poeni
 
 Sljedeći studenti su zbog posebno aktivnog učešća u prezentacijama oslobođeni usmenog dijela završnog ispita (10 poena):
-1. Luka Šućur ukupno 68 poena
+1. Luka Šućur - ukupno 68 poena
 2. Stefan Knežević - ukupno 48 poena
 3. Ana Jokanović - ukupno 58 poena
 4. Sara Aničić - ukupno 60 poena
