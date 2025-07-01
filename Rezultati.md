@@ -12,7 +12,7 @@
 9. Luka Sekulić 27
 10. Milica Knežević 27+3+5=33
 11. Mandić Jovana 30
-12. Đorđe Marojeviće 26+18+16=60 - D
+12. Đorđe Marojević 26+18+16=60 - D
 13. Marko Mešter 30
 14. Jovan Nikolić 30+23=53
 15. Igor Raičević 23
