@@ -1,19 +1,19 @@
-# Ostvareni poeni nakon odbrane projekata
+# Ostvareni poeni nakon završnog ispita
 
 ## Računarske nauke
 1. Vojislav Vukotić 30+17+28+5=80 - B
 2. Sandra Bulatović 30+5=35
 3. Marko Jocović 30+10+5=45
-4. Filip Zejak 30+20+5=55 - E
+4. Filip Zejak 30+25+5=60 - D
 5. Marko Vučinić 30+30=60 - D
 6. Stefan Karišik 30+13+17=60 - D
-7. Dragan Nedović 25
-8. Ina Vulović 17
+7. Dragan Nedović 25+7=32
+8. Ina Vulović 17+13=30
 9. Luka Sekulić 27
 10. Milica Knežević 27+3+5=33
-11. Mandić Jovana 30
+11. Mandić Jovana 30+2=32
 12. Đorđe Marojević 26+18+16=60 - D
-13. Marko Mešter 30
+13. Marko Mešter 30+12=42
 14. Jovan Nikolić 30+23=53
 15. Igor Raičević 23
 16. Luka Šućur 30+28+10=68 - D
@@ -30,11 +30,11 @@
 5. Rajan Miletić 17
 6. Veljko Vukotić 17
 7. Krsto Kustudić 25+13=38
-8. Simović Milica 30+6+5=41
+8. Simović Milica 30+5+7=42
 9. Elica Begović 20
-10. Balša Grgurević 22+30=52 - E
-11. Vlado Doderović 17+13=30
-12. Miilica Bjelica 20+5=25
+10. Balša Grgurević 22+30+18=70 - C
+11. Vlado Doderović 17+30=47
+12. Milica Bjelica 20+5=25
 13. Anamarija Pejović 18
 
 ## Bonus poeni
