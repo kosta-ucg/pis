@@ -1,9 +1,7 @@
-## Termin odbrane projekata
-Prvi termin za odbranu projekata je 01.07.2025.
-
-Studenti C smjera - 10h
-
-Studenti D smjera - 11:30h
+## Termin odbrane projekata i usmenog ispita
+Drugi termin za odbranu projekata je 10.07.2025. u 10h
 
 Odbrana će se održati online.
-Video call link: https://meet.google.com/oee-nfmo-civ
+Video call link: https://meet.google.com/uce-esxd-paf
+
+Usmeni dio ispita održaće se nakon odbrane projekata.
