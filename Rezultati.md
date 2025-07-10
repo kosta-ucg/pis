@@ -7,24 +7,24 @@
 4. Filip Zejak 30+25+5=60 - D
 5. Marko Vučinić 30+30=60 - D
 6. Stefan Karišik 30+13+17=60 - D
-7. Dragan Nedović 25+7=32
+7. Dragan Nedović 25+7+20=52 - E
 8. Ina Vulović 17+13=30
-9. Luka Sekulić 27
+9. Luka Sekulić 27+23 = 50 - E
 10. Milica Knežević 27+3+5=33
 11. Mandić Jovana 30+2=32
 12. Đorđe Marojević 26+18+16=60 - D
-13. Marko Mešter 30+12=42
-14. Jovan Nikolić 30+23=53
+13. Marko Mešter 30+12+20=62 - D
+14. Jovan Nikolić 30+23+30=83 - B
 15. Igor Raičević 23
 16. Luka Šućur 30+28+10=68 - D
-17. Marko Bojić 26+15=41
+17. Marko Bojić 26+15+20=61 - D
 18. Andrija Kljajević 18
 19. Aleksa Šljivančanin 30+27+25=82 - B
 20. Stefan Knežević 30+8+25+10=73 - C
 
 ## Računarstvo i informacione tehnologije
 1. Ana Jokanović 30+20+30+10=90 - A
-2. Sara Aničić 30+20+10=60 - D
+2. Sara Aničić 30+20+10+20=80 - B
 3. Una Marković 25+15+30=70 - C
 4. Đorđe Čabarkapa 17
 5. Rajan Miletić 17
@@ -35,7 +35,7 @@
 10. Balša Grgurević 22+30+18=70 - C
 11. Vlado Doderović 17+30=47
 12. Milica Bjelica 20+5=25
-13. Anamarija Pejović 18
+13. Anamarija Pejović 18+10+22 = 50 - E
 
 ## Bonus poeni
 
