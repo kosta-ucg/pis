@@ -1,8 +1,6 @@
 ## Termin odbrane projekata i usmenog ispita
-Drugi termin za odbranu projekata je 10.07.2025. u 10h
+Posljednji termin za odbranu projekata i usmeni ispit je 10.07.2025. u 12h
 
-Odbrana će se održati online.
+Ispit će se održati online.
 
-Video call link: https://meet.google.com/uce-esxd-paf
-
-Usmeni dio ispita održaće se nakon odbrane projekata.
+Video call link: https://meet.google.com/htc-ngqb-miu
