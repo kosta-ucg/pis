@@ -25,7 +25,7 @@
 ## Računarstvo i informacione tehnologije
 1. Ana Jokanović 30+20+30+10=90 - A
 2. Sara Aničić 30+20+10+20=80 - B
-3. Una Marković 25+15+30=70 - C
+3. Una Marković 25+15+30+10=80 - B
 4. Đorđe Čabarkapa 17
 5. Rajan Miletić 17
 6. Veljko Vukotić 17
