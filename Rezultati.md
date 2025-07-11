@@ -3,7 +3,7 @@
 ## Računarske nauke
 1. Vojislav Vukotić 30+17+28+5=80 - B
 2. Sandra Bulatović 30+5=35
-3. Marko Jocović 30+10+5=45
+3. Marko Jocović 30+15+5=50 - E
 4. Filip Zejak 30+25+5=60 - D
 5. Marko Vučinić 30+30=60 - D
 6. Stefan Karišik 30+13+17=60 - D
@@ -16,7 +16,7 @@
 13. Marko Mešter 30+12+20=62 - D
 14. Jovan Nikolić 30+23+30=83 - B
 15. Igor Raičević 23
-16. Luka Šućur 30+28+10=68 - D
+16. Luka Šućur 30+30+10=70 - C
 17. Marko Bojić 26+15+20=61 - D
 18. Andrija Kljajević 18
 19. Aleksa Šljivančanin 30+27+25=82 - B
