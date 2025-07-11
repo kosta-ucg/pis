@@ -30,7 +30,7 @@
 5. Rajan Miletić 17
 6. Veljko Vukotić 17
 7. Krsto Kustudić 25+13=38
-8. Simović Milica 30+5+7=42
+8. Simović Milica 30+5+8=42
 9. Elica Begović 20
 10. Balša Grgurević 22+30+18=70 - C
 11. Vlado Doderović 17+30=47
