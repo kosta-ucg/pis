@@ -1,3 +1,9 @@
+# Termini ispita u septembarskom roku
+07.09. 12h 107-A - odbrana projekata i usmeni ispit online nakon kolokvijuma
+17.09. 12h 107-A - odbrana projekata i usmeni ispit u kabinetu nakon kolokvijuma
+
+U istim terminima će se organizovati odbrana projekata iz predmeta Inžinjering zahtjeva.
+
 # Specifikacija projektnog zadatka
 
 Projekat podrazumijeva izradu jednostavne web aplikacije (npr. u Node.js, Python Flask ili Django). Aplikacija može biti kreirana za ispite iz drugih predmeta, ali mora biti funkcionalna i proširena u skladu sa sljedećim zahtjevima:
