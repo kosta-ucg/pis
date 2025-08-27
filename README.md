@@ -1,5 +1,5 @@
 # Termini ispita u septembarskom roku
-07.09. 12h 107-A - odbrana projekata i usmeni ispit online nakon kolokvijuma
+08.09. 14h 107-A - odbrana projekata i usmeni ispit online nakon kolokvijuma
 
 17.09. 12h 107-A - odbrana projekata i usmeni ispit u kabinetu nakon kolokvijuma
 
