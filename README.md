@@ -1,3 +1,8 @@
+# Link za online odbranu projekata
+Projektovanje inf. sistema i Inžinjering zahtjeva
+Tuesday, September 9 · 3:00 – 4:00pm
+Video call link: https://meet.google.com/jkz-qygp-pmo
+
 # Termini ispita u septembarskom roku
 08.09. 14h 107-A - odbrana projekata i usmeni ispit online nakon kolokvijuma
 
