@@ -1,3 +1,14 @@
+# Rezultati u septembarskom roku
+1. Jovana Mandic 32 + 30 = 62 - D.
+2. Milica Knežević 35 + 20 = 65 - E
+3. Krsto Kustudić 38 + 27 = 65 - D
+4. Andrej Planić 30 + 7 = 37 - F
+5. Elica Begović 20 + 20 = 40 - F
+6. Đorđe Vujičić 30 + 27 = 57 - E
+7. Milan Cvijović 18 - F
+
+Studenti koji žele da u drugom roku izađu na ispit, treba da pošalju mejl na kosta@ucg.ac.me i navedu koje djelove ispita polažu.
+
 # Ostvareni poeni nakon završnog ispita
 
 ## Računarske nauke
