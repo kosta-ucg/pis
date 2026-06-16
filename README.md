@@ -1,34 +1,53 @@
-# Link za online odbranu projekata
-Projektovanje inf. sistema i Inžinjering zahtjeva
+# Specifikacija projektnog zadatka - ljeto 2026
 
-Tuesday, September 9 · 3:00 – 4:00pm
+Projekat podrazumijeva izradu jednostavne web aplikacije (npr. u Node.js, Python Flask ili Django okruženju). Aplikacija može biti kreirana za potrebe drugih predmeta, ali mora biti funkcionalna i proširena u skladu sa sljedećim zahtjevima.
 
-Video call link: https://meet.google.com/jkz-qygp-pmo
+## Osnovni zahtjevi
 
-# Termini ispita u septembarskom roku
-08.09. 14h 107-A - odbrana projekata i usmeni ispit online nakon kolokvijuma
+1. **Dockerizacija aplikacije** – aplikaciju je potrebno spakovati u Docker kontejner. **(5 poena)**
 
-17.09. 12h 107-A - odbrana projekata i usmeni ispit u kabinetu nakon kolokvijuma
+2. **Kreiranje Kubernetes klastera** – rasporediti aplikaciju unutar Kubernetes klastera. **(5 poena)**
 
-U istim terminima će se organizovati odbrana projekata iz predmeta Inžinjering zahtjeva.
+## Napredne tehnike za baze podataka
 
-# Specifikacija projektnog zadatka
+3. **Replikacija baze podataka** – implementirati primarnu (*write*) i najmanje jednu replika (*read*) instancu baze podataka. Upiti za čitanje treba da koriste replike, dok se upisi izvršavaju nad primarnom instancom. **(5 poena)**
 
-Projekat podrazumijeva izradu jednostavne web aplikacije (npr. u Node.js, Python Flask ili Django). Aplikacija može biti kreirana za ispite iz drugih predmeta, ali mora biti funkcionalna i proširena u skladu sa sljedećim zahtjevima:
+4. **Particionisanje baze podataka** – implementirati logičko particionisanje podataka. **(5 poena)**
 
-      1. Dockerizacija aplikacije – aplikaciju je potrebno spakovati u Docker kontejner. (10 poena)
-      2. Kreiranje Kubernetes klastera – rasporediti aplikaciju unutar Kubernetes klastera. (10 poena)
-      3. Skaliranje baze podataka / particionisanje – implementirati horizontalno ili vertikalno skaliranje baze, ili koristiti logičko particionisanje podataka. (5 poena)
-      4. Sharding baze podataka – primijeniti tehniku shardovanja tako da se podaci dijele između više instanci baze (npr. prema korisnicima, regijama). (10 poena)
-      5. Implementacija dodatnih tehnika: caching, message queue, rate limiting ili neka druga tehnika po sopstvenom izboru. (5 poena)
+5. **Sharding baze podataka** – primijeniti tehniku shardovanja tako da se podaci raspoređuju između više instanci baze podataka (npr. prema korisnicima, regionima ili drugim kriterijumima). **(5 poena)**
 
-Pokretanje aplikacije na najmanje dvije instance i demonstracija njihovog rada uz prikaz funkcionalnog load balancinga (npr. korišćenjem Kubernetes Service sa više replika) je obavezno. 
-Takođe, poželjno je prikazati kako sistem reaguje na opterećenje ili pad jedne instance.
+## Automatizacija i DevOps
 
-Uz svaki od zahtjeva naveden je broj poena. Studenti mogu birati šta žele implementirati, s tim da ukupan broj osvojenih poena ne može preći 30.
+6. **CI/CD pipeline** – realizovati automatizovani proces izgradnje, testiranja i/ili deploy-a korišćenjem alata kao što su GitHub Actions, GitLab CI ili Jenkins. **(10 poena)**
 
-# Prezentacije za 26.05.2025.
-Prezentacije studenata zakazane za 26.05.2025. održaće se u ponedeljak od 8h.
+## Dodatne tehnike i alati
+
+Svaka implementirana tehnika iz ove grupe donosi **5 poena**, osim ako nije drugačije naznačeno.
+
+- Redis caching
+- Rate limiting
+- Kubernetes alati Helm + HPA
+- Ingress + TLS (Let's Encrypt)
+- Service Mesh (Istio, Linkerd i sl.) **(10 poena)**
+- Prometheus + Grafana
+- K6 load testing
+- GitOps (ArgoCD, FluxCD i sl.) **(10 poena)**
+- Distribuirani sistemi za razmjenu poruka (Apache Kafka, RabbitMQ i sl.)
+- Centralizovani logovi (ELK, Loki, Graylog i sl.)
+- Druga tehnika ili alat po izboru studenta, uz prethodno odobrenje predmetnog nastavnika.
+
+## Demonstracija
+
+Potrebno je demonstrirati:
+
+* funkcionalan rad aplikacije u Docker i Kubernetes okruženju;
+* load balancing između najmanje dvije instance aplikacije;
+* najmanje jednu situaciju koja pokazuje otpornost sistema (npr. pad instance, automatski restart, autoskaliranje, failover baze podataka i sl.);
+* implementirane dodatne funkcionalnosti za koje se ostvaruju poeni.
+
+## Bodovanje
+
+Uz svaki od zahtjeva naveden je broj poena. Studenti mogu birati koje će zahtjeve implementirati, pri čemu ukupan broj osvojenih poena ne može preći **30 poena**.
 
 # Literatura
 
