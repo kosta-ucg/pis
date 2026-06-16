@@ -27,9 +27,10 @@ Svaka implementirana tehnika iz ove grupe donosi **5 poena**, osim ako nije drug
 - Redis caching
 - Rate limiting
 - Kubernetes alati Helm + HPA
-- Ingress + TLS (Let's Encrypt)
+- Ingress controller (NGINX Ingress Controller) + TLS sertifikati (Let's Encrypt, cert-manager i sl.)
+- Database connection pooling (PgBouncer za PostgreSQL, ProxySQL za MySQL/MariaDB)
 - Service Mesh (Istio, Linkerd i sl.) **(10 poena)**
-- Prometheus + Grafana
+- Prometheus + Grafana monitoring
 - K6 load testing
 - GitOps (ArgoCD, FluxCD i sl.) **(10 poena)**
 - Distribuirani sistemi za razmjenu poruka (Apache Kafka, RabbitMQ i sl.)
